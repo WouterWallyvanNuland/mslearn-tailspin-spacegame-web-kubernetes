@@ -37,3 +37,4 @@ spec:
           image: wvnregistry.azurecr.io/leaderboard
           ports:
           - containerPort: 80
+#check for web and leaderboard images first 
