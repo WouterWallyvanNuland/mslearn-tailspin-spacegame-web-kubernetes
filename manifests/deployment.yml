@@ -34,7 +34,7 @@ spec:
     spec:
       containers:
         - name: leaderboard
-          image: wvnrtailspinspacegame18213egistry.azurecr.io/leaderboard
+          image: tailspinspacegame18213.azurecr.io/leaderboard
           ports:
           - containerPort: 80
 #check for web and leaderboard images first 
